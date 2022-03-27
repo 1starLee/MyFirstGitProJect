@@ -7,4 +7,4 @@ hello git! i like git!
 hello git! i like git!
 hello git! i like git!
 hello git! i like git!   master2
-hello git! i like git!   hot-fix
+hello git! i like git!   hot-fi
